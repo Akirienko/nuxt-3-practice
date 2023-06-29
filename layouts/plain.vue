@@ -1,5 +1,5 @@
-<template>
-  <form action="">
+<!-- <template>
+  <form>
     <label for="">
       Username
       <input type="text">
@@ -8,6 +8,6 @@
       Password
       <input type="password">
     </label>
+    <button>Login</button>
   </form>
-  <slot></slot>
-</template>
+</template> -->
