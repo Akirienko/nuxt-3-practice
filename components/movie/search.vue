@@ -5,7 +5,7 @@
   async function search() {
     const { Search } = await $fetch(`http://www.omdbapi.com/?apikey=277a8905&s=${query.value}`)
     movies.value = Search;
-    console.log(movies);
+    // console.log(movies);
   }
 
   search()
